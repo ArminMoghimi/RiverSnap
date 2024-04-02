@@ -1,5 +1,5 @@
 # RiverSnap - estimation of river hydrological parameters
-The page is under reconstruction.
+# The page is in the process of being created or updated.
 
 ![Test Image 1](https://github.com/ArminMoghimi/RiverSnap/blob/main/csm_RiverSnap_cd74afa27c.jpg)
 
@@ -24,3 +24,5 @@ https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=dr
 Please consider citing our papers if these codes and datasets are helpful and used anywhere.
 A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery, IEEE Access 2024. 
 ARMIN MOGHIMI, MARIO WELZEL, TURGAY CELIK, and TORSTEN SCHLURMANN
+
+# The page is in the process of being created or updated.

@@ -20,6 +20,9 @@ https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=dr
 
 [https://1drv.ms/u/s!AvQPxeTMtP1HbTnvKmGI3PD4g68?e=kPJhZm](https://drive.google.com/drive/folders/1fA78HOktI98PTKfhxxzPCijTodlBaf_r?usp=sharing)
 
+This is available at ##Kaggle:
+https://www.kaggle.com/datasets/arminmoghimi/lufi-riversnap
+
 ## Cite
 Please consider citing our papers if these codes and datasets are helpful and used anywhere.
 A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery, IEEE Access 2024. 

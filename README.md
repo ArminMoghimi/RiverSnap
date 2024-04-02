@@ -1,6 +1,6 @@
 # RiverSnap - estimation of river hydrological parameters
 
-![Test Image 1](https://github.com/ArminMoghimi/Keypoint-based-Relative-Radiometric-Normalization-RRN-method/blob/main/Figure/keypoint_based_rrn.jpg)
+![Test Image 1](https://github.com/ArminMoghimi/RiverSnap/blob/main/csm_RiverSnap_cd74afa27c.jpg)
 
 ## Overviwe
 RiverSnap is a local citizen science project that records and estimates some hydrological parameters such as water level (water level), river course (erosion/subsidence of the river), and vegetation.

@@ -13,7 +13,7 @@ The first paper was published in IEEE Access (codes and dataset):
 A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery by:
 ARMIN MOGHIMI, MARIO WELZEL, TURGAY CELIK, and TORSTEN SCHLURMANN
 
-## Our manuscript presents The Python code for fine-tuning SAM for water segmentation from close-range remote sensing images, which is under development. 
+## Our paper presents the Python code for fine-tuning SAM for water segmentation from close-range remote sensing images, which is under development. 
 https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link
 
 ## The LuFI-RiverSNAP.v1 dataset for water segmentation is available in the following links:  

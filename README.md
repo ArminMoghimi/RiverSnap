@@ -10,8 +10,9 @@ The project pursues two interlinked objectives. On the one hand, this project ai
 
 The first paper was published in IEEE Access (codes and dataset): 
 
-A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery by:
-ARMIN MOGHIMI, MARIO WELZEL, TURGAY CELIK, and TORSTEN SCHLURMANN
+A. Moghimi, M. Welzel, T. Celik and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. 
+
+https://ieeexplore.ieee.org/document/10493013
 
 ## Our paper presents the Python code for fine-tuning SAM for water segmentation from close-range remote sensing images, which is under development. 
 https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link

@@ -29,8 +29,6 @@ This is available at ##Kaggle:
 https://www.kaggle.com/datasets/arminmoghimi/lufi-riversnap
 
 ## Cite
-Please consider citing our papers if these codes and datasets are helpful and used anywhere.
-A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery, IEEE Access 2024. 
-ARMIN MOGHIMI, MARIO WELZEL, TURGAY CELIK, and TORSTEN SCHLURMANN
+A. Moghimi, M. Welzel, T. Celik and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
 
 # The page is in the process of being created or updated.

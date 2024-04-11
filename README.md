@@ -35,6 +35,6 @@ This dataset is also available in the "Datasets & Opensources" section of # ISPR
 https://www2.isprs.org/commissions/comm3/icwg-3-4a/datasets/
 
 ## Cite
-A. Moghimi, M. Welzel, T. Celik and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
+A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
 
 # The page is in the process of being created or updated.

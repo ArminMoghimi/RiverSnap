@@ -1,12 +1,11 @@
 # RiverSnap - estimation of river hydrological parameters
 # The page is in the process of being created or updated.
 
-![Test Image 1](https://github.com/ArminMoghimi/RiverSnap/blob/main/csm_RiverSnap_cd74afa27c.jpg)
 
 ## Overviwe
 RiverSnap is a local citizen science project that records and estimates some hydrological parameters such as water level (water level), river course (erosion/subsidence of the river), and vegetation.
 
-The project pursues two interlinked objectives. On the one hand, this project aims to provide a simple and suitable platform for scientists, community members, and people who use their smartphones to take pictures/videos of a river from a fixed location and share the images with us via social media. On the other hand, this project aims to develop and implement robust, intelligent, cost-effective, and efficient artificial intelligence (AI)-based approaches for extracting hydrological parameters/features of rivers from these images/videos.
+The project pursues two interlinked objectives. On the one hand, this project aims to provide a simple and suitable platform for scientists like the coastSnap platform, community members, and people who use their smartphones to take pictures/videos of a river from a fixed location and share the images with us via social media. On the other hand, this project aims to develop and implement robust, intelligent, cost-effective, and efficient artificial intelligence (AI)-based approaches for extracting hydrological parameters/features of rivers from these images/videos.
 
 If you are interested in more detail about RiverSnap, please come to EGU2024 and see our presentation there; please follow the first abstract at the following link: 
 https://doi.org/10.5194/egusphere-egu24-16082

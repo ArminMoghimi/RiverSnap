@@ -17,7 +17,7 @@ A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance A
 
 https://ieeexplore.ieee.org/document/10493013
 
-## Our paper presents the Python code for fine-tuning SAM for water segmentation from close-range remote sensing images, which is under development. 
+## Our paper presents the Python code for fine-tuning SAM [SAM](https://segment-anything.com/) for water segmentation from close-range remote sensing images, which is under development. 
 https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link
 
 ## The LuFI-RiverSNAP.v1 dataset for water segmentation is available in the following links:  

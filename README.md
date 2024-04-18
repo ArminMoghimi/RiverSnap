@@ -1,4 +1,4 @@
-# RiverSnap - estimation of river hydrological parameters
+# RiverSnap - estimation of river hydrological parameters using ML/AI-based algorithms
 # The page is in the process of being created or updated.
 
 

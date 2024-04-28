@@ -41,11 +41,30 @@ This dataset is also available in the "Datasets & Opensources" section of # ISPR
 https://www2.isprs.org/commissions/comm3/icwg-3-4a/datasets/
 
 ## Cite
+Please cite the following papers if they help your research. You can use the following BibTeX entry:
+```
+@article{moghimi2024comparative,
+  title={A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery},
+  author={Moghimi, Armin and Welzel, Mario and Celik, Turgay and Schlurmann, Torsten},
+  journal={IEEE Access},
+  year={2024},
+  doi={https://doi.org/10.48550/arXiv.2304.02643},
+  publisher={IEEE}
+}
+```
+A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
+```
+@inproceedings{kirillov2023segment,
+  title={Segment anything},
+  author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C and Lo, Wan-Yen and others},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4015--4026},
+  doi={https://doi.org/10.48550/arXiv.2304.02643},
+  year={2023}
+}
+```
 Kirillov, A., Mintun, E., Ravi, N., Mao, H., Rolland, C., Gustafson, L., ... & Girshick, R. (2023). Segment anything. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4015-4026).
 https://doi.org/10.48550/arXiv.2304.02643
-
-A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. https://ieeexplore.ieee.org/document/10493013
-
 
 
 # The page is in the process of being created or updated.

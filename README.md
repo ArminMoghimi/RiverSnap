@@ -17,6 +17,9 @@ A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance A
 https://ieeexplore.ieee.org/document/10493013
 
 ## Our paper presents the Python code for fine-tuning [SAM](https://segment-anything.com/) for water segmentation from close-range remote sensing images, which is under development. 
+Try it in Colab:</br></br>
+[![Open In Colab](https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link)
+
 https://colab.research.google.com/drive/169TpQs74YkzF1Dffb_SHddCdOJX6fDdE?usp=drive_link
 
 This code is developed based on the original code of SAM (https://github.com/facebookresearch/segment-anything) and a nice tutorial presented by Alexandre Bonnet regarding fine-tuning of SAM available at https://encord.com/blog/learn-how-to-fine-tune-the-segment-anything-model-sam/

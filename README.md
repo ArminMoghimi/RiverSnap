@@ -3,7 +3,7 @@
 
 
 ## Overviwe
-RiverSnap is a local citizen science project that records and estimates some hydrological parameters such as water level (water level), river course (erosion/subsidence of the river), and vegetation.
+RiverSnap is a local citizen science project that records and estimates some hydraulic parameters such as water level (water level), river course (erosion/subsidence), and vegetation changes around the river bank using close-range images shared by citizens or other ways. The focus is more on the methodology than on collecting data. The data can be collected using other citizen science platforms like [Crowdwater](https://crowdwater.ch/de/start-2/), a nice citizen science platform that uses the same structure as [Coastsnap](https://www.coastsnap.com/)
 ![Test Image 1](https://github.com/ArminMoghimi/RiverSnap/blob/RiverSnap/RiverSnap.jpg)
 In the RiverSnap research project, which is part of the Zukunftslabor Wasser initiative, data from smartphones and other close-range image sources like unmanned aerial vehicles capturing river scenes or videos shared voluntarily by citizens, scientists, and community members are combined with in-situ data (e.g., official gauge stations data). These data are analyzed to extract water-related, hydraulic, and structural parameters pertinent to river systems. The project RiverSnap is focused on further developing and investigating novel methods to determine hydraulic parameters, which are shared on this platform. To achieve this, cutting-edge machine learning and AI methods are employed, developed, further developed, and investigated, enabling the accurate determination of critical indices.
 

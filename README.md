@@ -9,7 +9,7 @@ In the RiverSnap research project, which is part of the Zukunftslabor Wasser ini
 
 
 
-The first paper was published in IEEE Access (codes and dataset): 
+The first paper was published in IEEE Access (codes and dataset): https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-
 
 A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery," in IEEE Access, doi: 10.1109/ACCESS.2024.3385425. 
 
